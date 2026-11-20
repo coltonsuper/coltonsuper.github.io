@@ -1,6 +1,5 @@
-title: "Blog Title"
-author: "Blog Author"
-description: "My blog"
+title: "Air-Sea Interactions Near Tropical Instability Waves in the Equatorial Pacific"
+author: "Colton Super"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -17,14 +16,9 @@ show_minimal: false             # remove all clutter
 
 # Menu                          # for available icons see https://fontawesome.com/v5/icons/
 
-navigation:                     # accepts {file, title, url, icon, sidebaricon}
-  - {file: "archive.html", sidebaricon: home}
-  - {file: "README.md", sidebaricon: address-card}
-
 external:                       # accepts {file, title, url, icon, sidebaricon}
-  - {title: Mail, icon: envelope, url: "mailto:author@example.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+  - {title: Mail, icon: envelope, url: "mailto:colton.super@uri.edu"}
+  - {title: Github, icon: github, url: "https://github.com/coltonsuper"}
 
 comments:
 #  disqus_shortname: ""         # see https://disqus.com
