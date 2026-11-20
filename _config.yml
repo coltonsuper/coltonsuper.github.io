@@ -1,6 +1,7 @@
 title: "Air-Sea Interactions Near Tropical Instability Waves in the Equatorial Pacific"
 author: "Colton Super"
-permalink: https://coltonsuper.github.io
+permalink: /:year/:month/:day/:title/
+url: "https://coltonsuper.github.io"
 lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
