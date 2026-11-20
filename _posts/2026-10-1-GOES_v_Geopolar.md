@@ -1,6 +1,7 @@
 ---
 layout: post
 title: GOES West SST vs. NOAA Blended Geopolar SST
+date: 2026-10-1
 ---
 This video shows SST from GOES West in comparison to NOAA's Geopolar Daily Blended SST Product
 

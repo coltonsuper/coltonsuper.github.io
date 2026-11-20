@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Training attempt 1 - no filter
-date: 11/19/26
+date: 2026-11-19
 ---
 
 This was the first attempt at retraining GOFLOW on equatorial Pacific ROMs data. I think the model is doing an ~ok job, but on the walls something goofy is going on. I plan to retrain again with a filter and hopefully see better results. 

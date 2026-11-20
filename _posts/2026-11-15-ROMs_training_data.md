@@ -1,6 +1,7 @@
 ---
 layout: post
 title: ROMs Training Data Visualizations
+date: 2026-11-15
 ---
 
 ROMs training data visualizations of SST, log|gradT|, and velocity fields

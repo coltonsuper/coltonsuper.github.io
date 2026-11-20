@@ -1,7 +1,7 @@
 ---
 layout: post
 title: inferences on geopolar sst
-date: 11/20/26
+date: 2026-22-20
 ---
 
 first attempts at training the newly trained model on the geopolar data. i dont think its giving me anything usefull. i plan to take a daily average of the roms data to retrain on specifically for the geopolar data set and hopefully that will give more promising results. 
