@@ -4,7 +4,7 @@ title: ROMs Training Data Visualizations
 date: 2026-11-15
 ---
 
-ROMs training data visualizations of SST, log|gradT|, and velocity fields
+ROMs training data visualizations of SST, log\|gradT\|, and velocity fields
 
 With tides:
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
